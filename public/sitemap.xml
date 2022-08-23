@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://funhouse.xyz/</loc>
+    <lastmod>2022-08-22T23:15:55-04:00</lastmod>
+  </url><url>
+    <loc>https://funhouse.xyz/posts/hello-world/</loc>
+    <lastmod>2022-08-22T23:15:55-04:00</lastmod>
+  </url><url>
+    <loc>https://funhouse.xyz/posts/</loc>
+    <lastmod>2022-08-22T23:15:55-04:00</lastmod>
+  </url><url>
+    <loc>https://funhouse.xyz/tags/</loc>
+    <lastmod>2022-08-22T23:15:55-04:00</lastmod>
+  </url><url>
+    <loc>https://funhouse.xyz/tags/untagged/</loc>
+    <lastmod>2022-08-22T23:15:55-04:00</lastmod>
+  </url><url>
+    <loc>https://funhouse.xyz/blog/</loc>
+  </url><url>
+    <loc>https://funhouse.xyz/series/</loc>
+  </url>
+</urlset>
